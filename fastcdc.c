@@ -1,7 +1,7 @@
 #include "fastcdc.h"
 
 // USE_CHUNKING_METHOD
-#define USE_CHUNKING_METHOD 0
+#define USE_CHUNKING_METHOD 1
 
 int main(int argc, char** argv) {
     // random file path 
