@@ -13,6 +13,8 @@ Related Paper:
 
 * Wen Xia, Xiangyu Zou, Yukun Zhou, Hong Jiang, Chuanyi Liu, Dan Feng, Yu Hua, Yuchong Hu, Yucheng Zhang, "The Design of Fast Content-Defined Chunking for Data Deduplication based Storage Systems", IEEE Transactions on Parallel and Distributed Systems (TPDS), 2020. [LINK](https://ieeexplore.ieee.org/document/9055082)
 
+欢迎商用，但请邮件 xiawen@hit.edu.cn  告知，并报告您遇到的问题；
+
 
 ### Dependency
 * openssl
