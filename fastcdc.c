@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
             break;
         
         default:
-            printf(stderr, "No implement other chunking method");
+            fprintf(stderr, "No implement other chunking method");
     }
 
 
